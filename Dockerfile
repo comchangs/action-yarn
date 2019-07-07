@@ -1,6 +1,6 @@
 FROM node:10
 
-LABEL "com.github.actions.name"="action-maven-deploy"
+LABEL "com.github.actions.name"="action-yarn"
 LABEL "com.github.actions.description"="A github action for yarn installing and building"
 LABEL "com.github.actions.icon"="share"
 LABEL "com.github.actions.color"="blue"
