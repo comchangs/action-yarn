@@ -16,7 +16,7 @@ action "comchangs/action-yarn@master" {
 }
 ```
 
-### Multiple project (Kotlin Maven and Angular)
+### Multiple project (Maven and Angular)
 ```workflow
 workflow "Build on push" {
   on = "push"
